@@ -1,0 +1,15 @@
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\bin\Debug\net8.0\inventoryManagement.exe
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\bin\Debug\net8.0\inventoryManagement.deps.json
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\bin\Debug\net8.0\inventoryManagement.runtimeconfig.json
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\bin\Debug\net8.0\inventoryManagement.dll
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\bin\Debug\net8.0\inventoryManagement.pdb
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\obj\Debug\net8.0\inventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\obj\Debug\net8.0\inventoryManagement.AssemblyInfoInputs.cache
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\obj\Debug\net8.0\inventoryManagement.AssemblyInfo.cs
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\obj\Debug\net8.0\inventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\obj\Debug\net8.0\inventoryManagement.sourcelink.json
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\obj\Debug\net8.0\inventoryManagement.dll
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\obj\Debug\net8.0\refint\inventoryManagement.dll
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\obj\Debug\net8.0\inventoryManagement.pdb
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\obj\Debug\net8.0\inventoryManagement.genruntimeconfig.cache
+C:\Users\Fatma\Documents\C#\week-3\library\inventoryManagement\obj\Debug\net8.0\ref\inventoryManagement.dll
