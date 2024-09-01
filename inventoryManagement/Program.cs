@@ -8,11 +8,14 @@ public static void Main(string[] args)
         System.Console.WriteLine("Hey , please enter the second number :");
         int b = Convert.ToInt32(Console.ReadLine());
 
-       // int result = calculateTotal(a, b);
-        int resultMultiply = calculateMultiply(a, b);
-
+      
+        
+         // int result = calculateTotal(a, b);
        // System.Console.WriteLine($"result of total value is {result}");
-       System.Console.WriteLine($"result of Multiply is {resultMultiply}");
+       //int resultMultiply = calculateMultiply(a, b);
+       //System.Console.WriteLine($"result of Multiply is {resultMultiply}");
+       int resultDivide = calculateDivide(a, b);
+       System.Console.WriteLine($"result of Divide is {resultDivide}");
 
     }
 
@@ -31,7 +34,18 @@ public static void Main(string[] args)
         int totalValue = a*b;
         return totalValue;
     }  
+
+      public static int calculateDivide(int a , int b)
+    {
+        int totalValue = a/b;
+        return totalValue;
+    }  
+
 }
+
+
+
+
 
 
 
