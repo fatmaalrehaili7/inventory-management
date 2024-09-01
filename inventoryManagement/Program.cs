@@ -8,9 +8,11 @@ public static void Main(string[] args)
         System.Console.WriteLine("Hey , please enter the second number :");
         int b = Convert.ToInt32(Console.ReadLine());
 
-        int result = calculateTotal(a, b);
-        
-        System.Console.WriteLine($"result of total value is {result}");
+       // int result = calculateTotal(a, b);
+        int resultMultiply = calculateMultiply(a, b);
+
+       // System.Console.WriteLine($"result of total value is {result}");
+       System.Console.WriteLine($"result of Multiply is {resultMultiply}");
 
     }
 
@@ -23,7 +25,12 @@ public static void Main(string[] args)
         int totalValue = a+b;
         return totalValue;
     }
-    
+
+      public static int calculateMultiply(int a , int b)
+    {
+        int totalValue = a*b;
+        return totalValue;
+    }  
 }
 
 
